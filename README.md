@@ -29,4 +29,7 @@ Word cloud visualization (of Tags) with most important sentiment words (Using wo
   
 Construction of Category-based Movies for movie category prediction using tags
   
-
+Link for downloading IMDB dataset:
+https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews (merged, csv file)
+or
+https://ai.stanford.edu/~amaas/data/sentiment/ (pre-merged, individual reviews)
