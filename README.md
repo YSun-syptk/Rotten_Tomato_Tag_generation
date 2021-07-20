@@ -1,5 +1,11 @@
+<div style="text-align:center"><img src="https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/rot_tom.jpeg?" data-canonical-src="https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/rot_tom.jpeg?" width="600" height="350" /></div>
+
 # Rotten_Tomato_Tag_generation
-Utilizing Bert for movie review sentiment analysis and tag generation
+Utilizing Bert for movie review sentiment analysis and tag generation.  
+
+Play with the notebook and look for your own golden tomatoes of the year!  
+
+<img src="https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/golden_tom.jpeg" data-canonical-src="https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/golden_tom.jpeg" width="400" height="200" />
 
 ## Summary of idea:
 
@@ -52,3 +58,30 @@ Link for downloading IMDB dataset:
 https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews (merged, csv file)
 or
 https://ai.stanford.edu/~amaas/data/sentiment/ (pre-merged, individual reviews)
+
+
+## Sample visualizations:
+### Embedding dimension ranking/selection
+![Embedding ranking](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/Embedding%20ranking.png?raw=true) 
+
+### POS-NEG 
+### The Godfather
+![Why Godfather is good](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/gd_godfather.png?raw=true) 
+![Why Godfather is bad (it's not)](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/bad_godfather.png?raw=true) 
+
+### Schindler's List
+![Why Schindler's List is good](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/gd_schindler.png?raw=true) 
+![Why Schindler's List is bad](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/bad_schindler.png?raw=true) 
+
+### Schindler's List
+![Why Schindler's List is good](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/gd_schindler.png?raw=true) 
+![Why Schindler's List is bad](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/bad_schindler.png?raw=true) 
+
+### Model Score for Salient summaries
+### WandaVision
+![Wanda Vision](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/scarlet_witch_sum.png?raw=true) 
+
+### Emily in Paris
+![Emily in Paris](https://github.com/YSun-syptk/Rotten_Tomato_Tag_generation/blob/main/blob/summary_emily.png?raw=true) 
+
+
